@@ -1,2 +1,2 @@
 # github-projects
-Projects that are fun and sometimes useful....
+This repository will contain a number of random projects I will be doing.
